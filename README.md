@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @NAP3XD   
 - 👀 I’m interested in ...OSCP
 - 🌱 I’ve passed my...ITF+,A+,NET+,SEC+
-- 💞️ I’m looking to collaborate on ...getting dat root, boi!
-- 📫 How to reach me ...gonna have to get back to you on dat.
+- 💞️ I’m looking to collaborate on projects!
+- 📫 Student @ Carteret College
 -  
 <img src="https://tryhackme-badges.s3.amazonaws.com/Dantehak5.png" alt="TryHackMe">
 
